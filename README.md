@@ -24,6 +24,6 @@ Para utilizar o projeto, basta seguir os seguintes passos:
 - Certifique-se de que o arquivo `profile.json` esteja sempre acessível por meio de um URL (por exemplo, hospedado no GitHub) para que a página do portfólio possa acessá-lo corretamente.
 
 - Se você tiver algum problema ou sugestão em relação a este projeto, sinta-se à vontade para criar uma issue no repositório do GitHub.
-# LINK SITE [Clique aqui para ir para o site] (https://prismatic-semifreddo-4127a3.netlify.app/)
+# LINK SITE [Clique aqui para ir para o site](https://prismatic-semifreddo-4127a3.netlify.app/)
 
 

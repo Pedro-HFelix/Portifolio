@@ -1,0 +1,93 @@
+{
+  "name": "Pedro Henrique Félix",
+  "photo": "https://avatars.githubusercontent.com/u/108374688?s=400&u=03cf80d0c892bc2c95b4636b485e2e9aaa2c8546&v=4",
+  "job": "Desenvolvedor Júnior",
+  "location": "Belo Horizonte - MG",
+  "phone": "(31) 99134-9030",
+  "email": "12202240@aluno.cotemig.com.br",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": ".NET C#",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/csharp.png"
+      },
+      {
+        "name": "Java",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+      },
+      {
+        "name": "MySQL",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mysql.png"
+      },
+      {
+        "name": "PHP",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/php.png"
+      },
+      {
+        "name": "HTML",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/html.png"
+      },
+      {
+        "name": "CSS",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/css.png"
+      },
+      {
+        "name": "JavaScript",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/js.png"
+      }
+    ],
+    "softSkills": [
+      "Proatividade",
+      "Comprometimento",
+      "Trabalho em equipe",
+      "Disciplina",
+      "Organização"
+    ]
+  },
+  "languages": [
+    "Português BR",
+    "Inglês (intermediário)",
+    "Espanhol (iniciante)"
+  ],
+  "portfolio": [
+    {
+      "name": "Curso da DIO para a criação de uma Pokedex",
+      "url": "https://github.com/Pedro-HFelix/pokedex.git",
+      "github": true
+    },
+    {
+      "name": "Curso da DIO para entender os padrões de projeto Java ",
+      "url": "https://github.com/Pedro-HFelix/Explorando-Padr-es-de-Projetos-na-Pr-tica-com-Java.git",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Estagiário Técnico de Tecnologia da Informação | Prefeitura de Nova Lima",
+      "period": "Setembro de 2022 até fevereiro de 2023",
+      "description": "Responsável pela administração de Ti em escolas e estruturas de equipamentos eletrônicos em Nova lima"
+    }
+  ],
+  "academicExperience":[
+    {
+      "name": "Colégio e Faculdade Cotemmig",
+      "description": "Técnico em Informática-Programação e Arquitetura de Computadores ",
+      "period": "2022-2023"
+    }
+  ],
+  "courses":[
+    {
+      "name": "Orange Tech + | BackEnd"
+    },
+    {
+      "name": "Formação HTML Web Developer"
+
+    },
+    {
+      "name": "Potência Tech powered by iFood - Java Beginners"
+    },
+    {
+      "name": "Formação JavaScript Developer"
+    }
+  ]
+}

@@ -9,7 +9,7 @@ O portfólio é construído como uma página web estática, portanto, você pode
 
 Para utilizar o projeto, basta seguir os seguintes passos:
 
-1. Clone este repositório para o seu ambiente local: [git clone https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/Pedro-HFelix/Portifolio.git)
+1. Clone este repositório para o seu ambiente local: https://github.com/Pedro-HFelix/Portifolio.git
    
 2. Abra o arquivo `profile.json` e substitua os dados existentes pelos seus próprios projetos e habilidades. Você pode adicionar ou remover projetos e habilidades conforme necessário, desde que mantenha o formato JSON.
 

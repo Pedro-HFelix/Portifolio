@@ -1,4 +1,4 @@
-# Portifólio com Dados de uma JSON
+# Portifólio com Dados de um JSON
 
 Este é o README para o projeto do meu portfólio, que utiliza dados de um arquivo JSON como uma API. O portfólio é uma página web que exibe informações sobre mim, meus projetos e habilidades. Os dados são obtidos a partir de um arquivo JSON hospedado no GitHub, simulando uma API simples.
 
